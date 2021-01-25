@@ -10,4 +10,4 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alzhe_TV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alzhe_TV)
 
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/alzherp)  
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.com/api/guilds/774771580609626122/widget.json)  
