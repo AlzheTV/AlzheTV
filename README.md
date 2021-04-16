@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alzhe_TV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alzhe_TV)
 
-## I’m a small developer still in school ^^
+## I'm a baby developper.
 
 - 🔭 I am currently working on some projects like hosting and gameservers (Minecraft, FiveM, Garry's Mod).
 - ✌️ I like working with other developers
